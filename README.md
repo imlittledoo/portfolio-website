@@ -105,4 +105,4 @@ This project is intended as a personal demonstration. For production use:
 
 ## License
 
-MIT © Andrew Achkar
+MIT © ImLittledoo
